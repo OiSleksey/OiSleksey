@@ -1,20 +1,13 @@
-### Hi 👋 My name is Oleksii Kryvonohykh
-
-### Junior Front-end Developer
-
-### I based in Ukraine
-
-<div id="header" align="center">
-  <img  width="100"   
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxdzVoczV1dnY0aTlzcW8zMHptMnFwZmlhMXNieXhndDQ4ZTVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif" />
-</div>" width="100"/>
-
-
-Hi ![]([https://giphy.com/gifs/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxdzVoczV1dnY0aTlzcW8zMHptMnFwZmlhMXNieXhndDQ4ZTVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif)) My name is Oleksii Kryvonohykh
+Hi, My name is Oleksii Kryvonohykh
 ========================================================================================================================================
 
 Junior Front-end Developer
 -------------------------
+
+<div id="header" align="center">
+  <img  width="200"   
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxdzVoczV1dnY0aTlzcW8zMHptMnFwZmlhMXNieXhndDQ4ZTVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif" />
+</div>
 
 I'm JavaScript Developer, with a passion for creating clear code and implementing beautiful Ui/UX design and functionality projects.
 
