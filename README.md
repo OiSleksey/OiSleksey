@@ -43,7 +43,7 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 </p>
 
 
-### Socials
+### Socials:
 
 <p align="left"> 
   <!--<a href=" " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
