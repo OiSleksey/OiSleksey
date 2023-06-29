@@ -6,7 +6,10 @@
 
 <iframe src="https://giphy.com/embed/7OMR3y1E9QeYsr9olS" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS">via GIPHY</a></p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" width="100"/>
+</div>
 
 Hi ![]([https://giphy.com/gifs/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxdzVoczV1dnY0aTlzcW8zMHptMnFwZmlhMXNieXhndDQ4ZTVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif)) My name is Oleksii Kryvonohykh
 ========================================================================================================================================
