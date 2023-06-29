@@ -4,8 +4,6 @@ Hi, My name is Oleksii Kryvonohykh
 Junior Front-end Developer
 -------------------------
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OiSleksey&theme=dark&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0)](https://git.io/streak-stats)
-
 I'm JavaScript Developer, with a passion for creating clear code and implementing beautiful Ui/UX design and functionality projects.
 
 * 🌍  I'm based in Ukraine
@@ -13,7 +11,7 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 * 🧠  I am improving my knowledge of TypeScript
 * 🤝  I'm open to collaborating on an interesting project as part of a professional team
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OiSleksey&hide_border=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OiSleksey&theme=dark&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0)](https://git.io/streak-stats)
 
 ### Skills
 
