@@ -4,14 +4,23 @@ Hi, My name is Oleksii Kryvonohykh
 Junior Front-end Developer
 -------------------------
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200" />
+</div>
+
+
 I'm JavaScript Developer, with a passion for creating clear code and implementing beautiful Ui/UX design and functionality projects.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [schokk8193@gmail.com](mailto:schokk8193@gmail.com)
 * 🧠  I am improving my knowledge of TypeScript
 * 🤝  I'm open to collaborating on an interesting project as part of a professional team
-
+------------------------------------------------------------------------------------------------------
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OiSleksey&theme=dark&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OiSleksey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
@@ -25,6 +34,14 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+  
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="36" height="36" alt="Webpack" /></a>
+
 </p>
 
 
