@@ -4,10 +4,7 @@ Hi, My name is Oleksii Kryvonohykh
 Junior Front-end Developer
 -------------------------
 
-<div id="header" align="center">
-  <img  width="200"   
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxdzVoczV1dnY0aTlzcW8zMHptMnFwZmlhMXNieXhndDQ4ZTVhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif" />
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OiSleksey&theme=dark&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0)](https://git.io/streak-stats)
 
 I'm JavaScript Developer, with a passion for creating clear code and implementing beautiful Ui/UX design and functionality projects.
 
