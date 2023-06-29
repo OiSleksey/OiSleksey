@@ -16,6 +16,9 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 * 🧠  I am improving my knowledge of TypeScript
 * 🤝  I'm open to collaborating on an interesting project as part of a professional team
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ### Skills
 
 
