@@ -43,16 +43,20 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 </p>
 
 
-### Socials:
+<!--### Socials:->>
 
 <p align="left"> 
   <!--<a href=" " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>-->
+
+  <!--
   <a href="https://www.linkedin.com/in/oleksii-kryvonohykh-539b24256/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
 </p>
+->>
 <!--
 **OiSleksey/OiSleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
